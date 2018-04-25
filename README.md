@@ -132,7 +132,6 @@ Woot! You passed one. Now you can go ahead and try and pass all of the other tes
 While you are solving the other tests you may come across a few errors. Let's go over some common ones:
 
 #### Expected Undefined
-
 ```
 Error: Expected undefined to equal 'Susan'
 ```
